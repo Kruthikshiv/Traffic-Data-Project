@@ -1,0 +1,66 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
+C:/Users/kruth/.conan2/p/bzip2e1752ec0a98ec/p/lib/cmake/conan-official-bzip2-variables.cmake
+C:/Users/kruth/.conan2/p/opens764bd7205aec1/p/lib/cmake/conan-official-openssl-variables.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/CMakeLists.txt
+D:/DOWNLOAD/projects/Traffic Data Project/build/CMakeFiles/3.28.1/CMakeCCompiler.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/CMakeFiles/3.28.1/CMakeRCCompiler.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/CMakeFiles/3.28.1/CMakeSystem.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/BZip2-Target-release.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/BZip2-release-x86_64-data.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/BZip2Config.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/BZip2ConfigVersion.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/BZip2Targets.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/Boost-Target-release.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/Boost-release-x86_64-data.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/BoostConfig.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/BoostConfigVersion.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/BoostTargets.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/CURL-Target-release.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/CURL-release-x86_64-data.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/CURLConfig.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/CURLConfigVersion.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/CURLTargets.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/OpenSSL-Target-release.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/OpenSSL-release-x86_64-data.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/OpenSSLConfig.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/OpenSSLConfigVersion.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/OpenSSLTargets.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/ZLIB-Target-release.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/ZLIB-release-x86_64-data.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/ZLIBConfig.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/ZLIBConfigVersion.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/ZLIBTargets.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/cmakedeps_macros.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/conan_toolchain.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/conandeps_legacy.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/cpr-Target-release.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/cpr-config-version.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/cpr-config.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/cpr-release-x86_64-data.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/cprTargets.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/nlohmann_json-Target-release.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/nlohmann_json-config-version.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/nlohmann_json-config.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/nlohmann_json-release-x86_64-data.cmake
+D:/DOWNLOAD/projects/Traffic Data Project/build/generators/nlohmann_jsonTargets.cmake

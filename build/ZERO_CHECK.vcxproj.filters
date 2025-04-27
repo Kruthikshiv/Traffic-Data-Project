@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\DOWNLOAD\projects\Traffic Data Project\build\CMakeFiles\d3a329509242b971b2cd2cb7e96b14fd\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{65FA8916-8028-3172-9B03-93E867C9C574}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
